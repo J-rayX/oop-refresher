@@ -1,3 +1,4 @@
+# Practice excercise from Datacamp's Object-Oriented Programming in Python course
 import math
 
 class Point:
